@@ -7,12 +7,7 @@ Composition of containers for using Nextcloud
 Just clone this repo then go to folder with sources
 
     git clone https://github.com/Kolesovdm/Nextcloud.git
-    cd docker-nextcloud
-
-Copy dist configs and fix your parameters if need
-
-    cp -v docker-compose.yml.dist docker-compose.yml
-    cp -v configs/nginx/conf.d/default.conf.dist configs/nginx/conf.d/default.conf
+    cd Nextcloud
 
 Start composition of containers
 
