@@ -18,7 +18,7 @@ Start composition of containers
 
     docker-compose up -d
 
-Go to http://localhost and install the system.
+Go to http://localhost and install the system. 
 
 ## Links
 
